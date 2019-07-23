@@ -5,3 +5,7 @@ In this project, we had to  define and train a DCGAN on a dataset of faces. Our 
 to view...
 
 clone this repo and open the html file.
+
+The final 'generated' faces looked like this..
+
+![faces](final.png)
